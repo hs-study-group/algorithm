@@ -26,7 +26,7 @@
 
 ## PR(Pull Request) Rules
 ![image](https://user-images.githubusercontent.com/84364741/166105677-b274a0e7-b378-4686-b425-9a8e73557fa6.png)
-+ 제목 : [알고리즘 종률][문제 번호][문제 이름]
++ 제목 : [플랫폼] [알고리즘 종류] [문제 번호] [문제 이름]
 + Lable : 문제 난이도 선택
 + Assignees : 본인 선택
 + Reviewer : 본인 제외 선택
