@@ -1,5 +1,6 @@
 ## Algorithm Study Group
 + 기업 코딩테스트 대비 알고리즘 스터디 그룹입니다.
++ 매주 토요일 20시 회의
 
 ## 알고리즘 문제 풀이 사이트
 + [Baekjoon Online Judge](https://www.acmicpc.net/)
