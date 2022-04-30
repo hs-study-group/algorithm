@@ -25,7 +25,12 @@
   + 함수(메소드)는 하나의 기능만 수행해야 합니다.
 
 ## PR(Pull Request) Rules
-+ 작성중!
+![image](https://user-images.githubusercontent.com/84364741/166105677-b274a0e7-b378-4686-b425-9a8e73557fa6.png)
++ 제목 : [알고리즘 종률][문제 번호][문제 이름]
++ Lable : 문제 난이도 선택
++ Assignees : 본인 선택
++ Reviewer : 본인 제외 선택
++ 본문 : 기본으로 제공되는 Template Rule을 꼭!! 지켜주세요.
 
 ## Code Review Rules
 + 자신의 의견을 표현해주세요. 
@@ -34,6 +39,7 @@
 ## Issue Rules
 + 모르는 문제가 생겼을 때 작성해주세요.
   + 솔루션 검색을 했는데도 이해가 안 간다면 이슈를 등록해서 공유해주세요.
+  + 기본으로 제공되는 Template Rule을 꼭!! 지켜주세요.
 
 ## Tip
 + 한 문제를 1시간~2시간 정도 고민하여 풀어봅니다.
