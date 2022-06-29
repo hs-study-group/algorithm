@@ -6,6 +6,7 @@
 + [Baekjoon Online Judge](https://www.acmicpc.net/)
 + [Programmers](https://programmers.co.kr/)
 + [SWEA](https://swexpertacademy.com/)
++ [Goorm](https://level.goorm.io/)
 
 ## ✅ 파일 및 폴더 구조
 + 플랫폼/문제 종류/문제 번호/본인 깃허브 닉네임/ 형식으로 업로드 바랍니다.
@@ -20,6 +21,7 @@
   + [BOJ] - 백준
   + [PGS] - 프로그래머스
   + [SWA] - SW Expert Academy
+  + [GRM] - 구름
   + [ETC] - 그 외
   
 ## ✅ 스터디 진행 방법
