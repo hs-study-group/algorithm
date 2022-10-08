@@ -27,4 +27,3 @@ for case in cb(dic[2], M):
     chiken_set.add(case_distance)
 
 print(min(chiken_set))
-
