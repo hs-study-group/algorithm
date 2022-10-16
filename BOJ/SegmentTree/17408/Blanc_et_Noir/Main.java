@@ -26,6 +26,7 @@ public class Main {
 		}else {
 			//왼쪽, 오른쪽 노드 모두에 대해서 init( )메소드를 재귀적으로 호출함
 			int mid = (start+end)/2;
+			
 			init(node*2,start,mid);
 			init(node*2+1,mid+1,end);
 			
