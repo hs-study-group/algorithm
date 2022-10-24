@@ -20,7 +20,7 @@
 + 플랫폼 작성법 통일
   + [BOJ] - 백준
   + [PGS] - 프로그래머스
-  + [SWA] - SW Expert Academy
+  + [SWEA] - SW Expert Academy
   + [GRM] - 구름
   + [ETC] - 그 외
   
